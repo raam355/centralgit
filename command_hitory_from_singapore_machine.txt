@@ -1,0 +1,76 @@
+    1  git update
+    2  yum update -y
+    3  which git
+    4  yum install git
+    5  which git
+    6  git --version
+    7  git config --global user.name "rsakal"
+    8  git config --global user.email "rsakal@cdac.in"
+    9  git config --list
+   10  ls
+   11  ls
+   12  history 
+   13  git config --list
+   14  mkdir singapurgit
+   15  cd singapurgit/
+   16  git init
+   17  ls -a
+   18  git status
+   19  git remote add origin https://github.com/raam355/centralgit.git
+   20  git config --list
+   21  git log
+   22  git status
+   23  git pull origin master
+   24  git log
+   25  git status
+   26  git show a57611ce8572d8bc2ebf861e9d83d750309e70b9
+   27  ls
+   28  cat mumbaigit 
+   29  vim mumbaigit 
+   30  git status
+   31  git add .
+   32  git status 
+   33  git commit -m "First commit from singapore"
+   34  git status
+   35  git log
+   36  git show 73989a29188572ef7da2b40179c9be38e2d06143
+   37  git push origin master 
+   38  git status
+   39  git pull
+   40  git pull origin master 
+   41  git status
+   42  git status
+   43  git log
+   44  git log -h
+   45  git log -q
+   46  git log 
+   47  git log -q
+   48  git log --grep "commit"
+   49  git status
+   50  git pull origin master 
+   51  git status
+   52  ls
+   53  vim file1.txt 
+   54  git status
+   55  ls
+   56  vim file2.yml 
+   57  vim file5.sh 
+   58  git status
+   59  touch file3.css file4.java
+   60  ls
+   61  git status
+   62  mv file3.css file6.css
+   63  mv file4.java file7.java
+   64  ls
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit "UPdated files from Singapore machine"
+   69  git commit -m "UPdated files from Singapore machine"
+   70  git status
+   71  git push origin master 
+   72  git status 
+   73  git pull origin master 
+   74  ls
+   75  git status 
+   76  history > command_hitory_from_singapore_machine.txt 
