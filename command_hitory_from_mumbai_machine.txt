@@ -1,0 +1,132 @@
+    1  history 
+    2  git --list
+    3  which git
+    4  git globale --list
+    5  git globle --list
+    6  git -h
+    7  ls
+    8  ls .
+    9  git --list
+   10  git global --list
+   11  git config --list
+   12  cd
+   13  which git
+   14  mkdir mumbaigit
+   15  ls
+   16  cd mumbaigit/
+   17  git init 
+   18  ls
+   19  ls .
+   20  ls -a
+   21  ls .git/
+   22  cat >mumbai1
+   23  cat mumbai1 
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "My first commit from mumbai"
+   28  git status
+   29  git log
+   30  git status
+   31  git branch 
+   32  git branch -a
+   33  git show 5226cfe34
+   34  git show 5226cfe34
+   35  git remote add origin 
+   36  git remote add origin 
+   37  git remote add origin https://github.com/raam355/centralgit.git
+   38  git status
+   39  git push -u origin master 
+   40  git status
+   41  git remote add origin https://github.com/raam355/centralgit.git
+   42  git remote add origin https://github.com/raam355/centralgit.git
+   43  git push -u origin master 
+   44  git push -u origin main
+   45  git branch 
+   46  git config --list
+   47  git config --global user.name "raam355"
+   48  git config --list
+   49  git push -u origin master 
+   50  git status
+   51  git remote add origin https://github.com/raam355/centralgit.git
+   52  git push -u origin master 
+   53  ls
+   54  ls
+   55  pwd
+   56  history 
+   57  mkdir mumbaigit
+   58  cd mumbaigit/
+   59  git init 
+   60  ls .git/
+   61  cat >mumbaigit
+   62  cat mumbaigit 
+   63  git status
+   64  git add .
+   65  git status
+   66  git config -list
+   67  git config --list
+   68  git commit -m "My first commit from mumbai"
+   69  git status
+   70  #git remote add origin https://github.com/raam355/centralgit.git
+   71  git log
+   72  git status
+   73  git remote add origin https://github.com/raam355/centralgit.git
+   74* git s
+   75  git config --list
+   76  git push -u origin master
+   77  git push -u origin master
+   78  git push -u origin master
+   79  git push -u origin master
+   80  vim mumbaigit 
+   81  git status
+   82  git add .
+   83  git status
+   84  git commit -m "My scond commint from mumbai"
+   85  git status
+   86  git log
+   87  git show a57611ce8572d8bc2ebf861e9d83d750309e70b9
+   88  git push origin master 
+   89  git status
+   90  ls
+   91  git log 
+   92  git pull origin master 
+   93  git status
+   94  git log
+   95  git show 73989a29188572ef7da2b40179c9be38e2d06143
+   96  git status
+   97  vim .gitegnore
+   98  git status
+   99  git add .
+  100  git status
+  101  git add .gitegnore 
+  102  git revert 
+  103  mv .gitegnore 
+  104  mv .gitegnore .gitignore
+  105  git status
+  106  git add .gitignore 
+  107  git status
+  108  git commit -m "Created gitignore file to ignofe some file formate"
+  109  git status
+  110  git status
+  111  git add .
+  112  git status
+  113  git status
+  114  git commit -m "Created gitignore file to ignofe some file formate"
+  115  git status
+  116  ls -a
+  117  cat .gitignore 
+  118  touch file1.txt file2.yml file3.css file4.java file5.sh
+  119  ls
+  120  git status
+  121  git add .
+  122  git status
+  123  ls
+  124  git commit -m "Added some file to verify the gitignore"
+  125  git status
+  126  git log
+  127  git log -3
+  128  git show 5ada7bbc08
+  129  git push origin master 
+  130  git status
+  131  ls
+  132  history >command_hitory_from_mumbai_machine.txt
