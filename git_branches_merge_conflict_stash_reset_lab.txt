@@ -1,0 +1,1221 @@
+login as: ec2-user
+Authenticating with public key "imported-openssh-key"
+Last login: Thu Jan 13 11:43:02 2022 from 106.212.107.17
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-2/
+[ec2-user@ip-172-31-33-6 ~]$ sudo su
+[root@ip-172-31-33-6 ec2-user]#
+[root@ip-172-31-33-6 ec2-user]#
+[root@ip-172-31-33-6 ec2-user]#
+[root@ip-172-31-33-6 ec2-user]# ls
+mumbaigit
+[root@ip-172-31-33-6 ec2-user]# cd mumbaigit/
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file1.txt  file3.css   file5.sh
+command_hitory_from_singapore_machine.txt  file2.yml  file4.java  mumbaigit
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# history
+    1  history
+    2  git --list
+    3  which git
+    4  git globale --list
+    5  git globle --list
+    6  git -h
+    7  ls
+    8  ls .
+    9  git --list
+   10  git global --list
+   11  git config --list
+   12  cd
+   13  which git
+   14  mkdir mumbaigit
+   15  ls
+   16  cd mumbaigit/
+   17  git init
+   18  ls
+   19  ls .
+   20  ls -a
+   21  ls .git/
+   22  cat >mumbai1
+   23  cat mumbai1
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "My first commit from mumbai"
+   28  git status
+   29  git log
+   30  git status
+   31  git branch
+   32  git branch -a
+   33  git show 5226cfe34
+   34  git show 5226cfe34
+   35  git remote add origin
+   36  git remote add origin
+   37  git remote add origin https://github.com/raam355/centralgit.git
+   38  git status
+   39  git push -u origin master
+   40  git status
+   41  git remote add origin https://github.com/raam355/centralgit.git
+   42  git remote add origin https://github.com/raam355/centralgit.git
+   43  git push -u origin master
+   44  git push -u origin main
+   45  git branch
+   46  git config --list
+   47  git config --global user.name "raam355"
+   48  git config --list
+   49  git push -u origin master
+   50  git status
+   51  git remote add origin https://github.com/raam355/centralgit.git
+   52  git push -u origin master
+   53  ls
+   54  ls
+   55  pwd
+   56  history
+   57  mkdir mumbaigit
+   58  cd mumbaigit/
+   59  git init
+   60  ls .git/
+   61  cat >mumbaigit
+   62  cat mumbaigit
+   63  git status
+   64  git add .
+   65  git status
+   66  git config -list
+   67  git config --list
+   68  git commit -m "My first commit from mumbai"
+   69  git status
+   70  #git remote add origin https://github.com/raam355/centralgit.git
+   71  git log
+   72  git status
+   73  git remote add origin https://github.com/raam355/centralgit.git
+   74  git s
+   75  git config --list
+   76  git push -u origin master
+   77  git push -u origin master
+   78  git push -u origin master
+   79  git push -u origin master
+   80  vim mumbaigit
+   81  git status
+   82  git add .
+   83  git status
+   84  git commit -m "My scond commint from mumbai"
+   85  git status
+   86  git log
+   87  git show a57611ce8572d8bc2ebf861e9d83d750309e70b9
+   88  git push origin master
+   89  git status
+   90  ls
+   91  git log
+   92  git pull origin master
+   93  git status
+   94  git log
+   95  git show 73989a29188572ef7da2b40179c9be38e2d06143
+   96  git status
+   97  vim .gitegnore
+   98  git status
+   99  git add .
+  100  git status
+  101  git add .gitegnore
+  102  git revert
+  103  mv .gitegnore
+  104  mv .gitegnore .gitignore
+  105  git status
+  106  git add .gitignore
+  107  git status
+  108  git commit -m "Created gitignore file to ignofe some file formate"
+  109  git status
+  110  git status
+  111  git add .
+  112  git status
+  113  git status
+  114  git commit -m "Created gitignore file to ignofe some file formate"
+  115  git status
+  116  ls -a
+  117  cat .gitignore
+  118  touch file1.txt file2.yml file3.css file4.java file5.sh
+  119  ls
+  120  git status
+  121  git add .
+  122  git status
+  123  ls
+  124  git commit -m "Added some file to verify the gitignore"
+  125  git status
+  126  git log
+  127  git log -3
+  128  git show 5ada7bbc08
+  129  git push origin master
+  130  git status
+  131  ls
+  132  history >command_hitory_from_mumbai_machine.txt
+  133  git status
+  134  vim command_hitory_from_mumbai_machine.txt
+  135  git add command_hitory_from_mumbai_machine.txt
+  136  git status
+  137  git commit -m "history of mumbai machine till date"
+  138  git status
+  139  git push origin master
+  140  git status
+  141  ls
+  142  git push origin master
+  143  git pull
+  144  git pull origin master
+  145  git status
+  146  ls
+  147  git pull origin master
+  148  git push origin master
+  149  git status
+  150  git pull origin master
+  151  git pull origin master
+  152  ls
+  153  cd mumbaigit/
+  154  ls
+  155  git status
+  156  history
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch
+* master
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch branch1
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch
+  branch1
+* master
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git checkout branch1
+Switched to branch 'branch1'
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch branch1
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch
+* branch1
+  master
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file1.txt  file3.css   file5.sh
+command_hitory_from_singapore_machine.txt  file2.yml  file4.java  mumbaigit
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git log --oneline
+1129af0 (HEAD -> branch1, origin/master, master) history from singapore machine
+85f5ded Merge branch 'master' of https://github.com/raam355/centralgit
+fdeb12b history of mumbai machine till date
+00c8d81 UPdated files from Singapore machine
+f3df69e Added some file to verify the gitignore
+2c6a983 Created gitignore file to ignofe some file formate
+5ada7bb Created gitignore file to ignofe some file formate
+73989a2 First commit from singapore
+a57611c My scond commint from mumbai
+9eb6ced My first commit from mumbai
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# vim test1_from_branch1.sh
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch branch1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test1_from_branch1.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file2.yml   file5.sh
+command_hitory_from_singapore_machine.txt  file3.css   mumbaigit
+file1.txt                                  file4.java  test1_from_branch1.sh
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file2.yml   file5.sh
+command_hitory_from_singapore_machine.txt  file3.css   mumbaigit
+file1.txt                                  file4.java  test1_from_branch1.sh
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch
+  branch1
+* master
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test1_from_branch1.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git checkout branch1
+Switched to branch 'branch1'
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch
+* branch1
+  master
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch branch1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test1_from_branch1.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch branch1
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   test1_from_branch1.sh
+
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "First commit from branch1"
+[branch1 19ce204] First commit from branch1
+ 1 file changed, 2 insertions(+)
+ create mode 100644 test1_from_branch1.sh
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch branch1
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file1.txt  file3.css   file5.sh
+command_hitory_from_singapore_machine.txt  file2.yml  file4.java  mumbaigit
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git log --oneline
+1129af0 (HEAD -> master, origin/master) history from singapore machine
+85f5ded Merge branch 'master' of https://github.com/raam355/centralgit
+fdeb12b history of mumbai machine till date
+00c8d81 UPdated files from Singapore machine
+f3df69e Added some file to verify the gitignore
+2c6a983 Created gitignore file to ignofe some file formate
+5ada7bb Created gitignore file to ignofe some file formate
+73989a2 First commit from singapore
+a57611c My scond commint from mumbai
+9eb6ced My first commit from mumbai
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git merge branch1
+Updating 1129af0..19ce204
+Fast-forward
+ test1_from_branch1.sh | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 test1_from_branch1.sh
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git log --oneline
+19ce204 (HEAD -> master, branch1) First commit from branch1
+1129af0 (origin/master) history from singapore machine
+85f5ded Merge branch 'master' of https://github.com/raam355/centralgit
+fdeb12b history of mumbai machine till date
+00c8d81 UPdated files from Singapore machine
+f3df69e Added some file to verify the gitignore
+2c6a983 Created gitignore file to ignofe some file formate
+5ada7bb Created gitignore file to ignofe some file formate
+73989a2 First commit from singapore
+a57611c My scond commint from mumbai
+9eb6ced My first commit from mumbai
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch
+  branch1
+* master
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# vim conflict.txt
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        conflict.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "Conflict file from master Branch"
+[master c3c25df] Conflict file from master Branch
+ 1 file changed, 1 insertion(+)
+ create mode 100644 conflict.txt
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git log
+commit c3c25df3f57f6b44d5d0bef3b2783b295d2c4e31 (HEAD -> master)
+Author: raam355 <raam355tech@gmail.com>
+Date:   Mon Jan 17 14:48:06 2022 +0000
+
+    Conflict file from master Branch
+
+commit 19ce20412d68edf2e61d4fc126f651b6726eebc8 (branch1)
+Author: raam355 <raam355tech@gmail.com>
+Date:   Mon Jan 17 14:36:31 2022 +0000
+
+    First commit from branch1
+
+commit 1129af0be5770d9eb4bad5b1b02719f39694c569 (origin/master)
+Author: rsakal <rsakal@cdac.in>
+Date:   Thu Jan 13 17:01:01 2022 +0000
+
+    history from singapore machine
+
+commit 85f5deddd55b7cc1625d9fdbb145d929425a4fdb
+Merge: fdeb12b 00c8d81
+Author: raam355 <raam355tech@gmail.com>
+Date:   Thu Jan 13 16:57:52 2022 +0000
+
+    Merge branch 'master' of https://github.com/raam355/centralgit
+
+commit fdeb12b8063000713d04412539b1b17ff4f5f16e
+Author: raam355 <raam355tech@gmail.com>
+Date:   Thu Jan 13 16:56:04 2022 +0000
+
+    history of mumbai machine till date
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git log --oneline
+c3c25df (HEAD -> master) Conflict file from master Branch
+19ce204 (branch1) First commit from branch1
+1129af0 (origin/master) history from singapore machine
+85f5ded Merge branch 'master' of https://github.com/raam355/centralgit
+fdeb12b history of mumbai machine till date
+00c8d81 UPdated files from Singapore machine
+f3df69e Added some file to verify the gitignore
+2c6a983 Created gitignore file to ignofe some file formate
+5ada7bb Created gitignore file to ignofe some file formate
+73989a2 First commit from singapore
+a57611c My scond commint from mumbai
+9eb6ced My first commit from mumbai
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file2.yml   mumbaigit
+command_hitory_from_singapore_machine.txt  file3.css   test1_from_branch1.sh
+conflict.txt                               file4.java
+file1.txt                                  file5.sh
+[root@ip-172-31-33-6 mumbaigit]# git checkout branch1
+Switched to branch 'branch1'
+[root@ip-172-31-33-6 mumbaigit]# vim conflict.txt
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch branch1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        conflict.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]# git commit -m " Conflict file from master Branch"
+[branch1 9266df9]  Conflict file from master Branch
+ 1 file changed, 1 insertion(+)
+ create mode 100644 conflict.txt
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git commit -m " Conflict file from branch1 Branch"
+On branch branch1
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch branch1
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]# git log --oneline
+9266df9 (HEAD -> branch1)  Conflict file from master Branch
+19ce204 First commit from branch1
+1129af0 (origin/master) history from singapore machine
+85f5ded Merge branch 'master' of https://github.com/raam355/centralgit
+fdeb12b history of mumbai machine till date
+00c8d81 UPdated files from Singapore machine
+f3df69e Added some file to verify the gitignore
+2c6a983 Created gitignore file to ignofe some file formate
+5ada7bb Created gitignore file to ignofe some file formate
+73989a2 First commit from singapore
+a57611c My scond commint from mumbai
+9eb6ced My first commit from mumbai
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+[root@ip-172-31-33-6 mumbaigit]# git branch
+  branch1
+* master
+[root@ip-172-31-33-6 mumbaigit]# git merge branch1
+CONFLICT (add/add): Merge conflict in conflict.txt
+Auto-merging conflict.txt
+Automatic merge failed; fix conflicts and then commit the result.
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# vim conflict.txt
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both added:      conflict.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+        modified:   conflict.txt
+
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "Resloved conflict by edit"
+[master c4e3cb4] Resloved conflict by edit
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git --on
+unknown option: --on
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git log --oneline
+c4e3cb4 (HEAD -> master) Resloved conflict by edit
+9266df9 (branch1)  Conflict file from master Branch
+c3c25df Conflict file from master Branch
+19ce204 First commit from branch1
+1129af0 (origin/master) history from singapore machine
+85f5ded Merge branch 'master' of https://github.com/raam355/centralgit
+fdeb12b history of mumbai machine till date
+00c8d81 UPdated files from Singapore machine
+f3df69e Added some file to verify the gitignore
+2c6a983 Created gitignore file to ignofe some file formate
+5ada7bb Created gitignore file to ignofe some file formate
+73989a2 First commit from singapore
+a57611c My scond commint from mumbai
+9eb6ced My first commit from mumbai
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git merge branch1
+Already up to date.
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# touch stashdemofile
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "stash demo file"
+[master 8b8702f] stash demo file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file2.yml   mumbaigit
+command_hitory_from_singapore_machine.txt  file3.css   stashdemofile
+conflict.txt                               file4.java  test1_from_branch1.sh
+file1.txt                                  file5.sh
+[root@ip-172-31-33-6 mumbaigit]# vim stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   stashdemofile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash
+Saved working directory and index state WIP on master: 8b8702f stash demo file
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# vim stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# cat stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status list
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash list
+stash@{0}: WIP on master: 8b8702f stash demo file
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# vim stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   stashdemofile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash
+Saved working directory and index state WIP on master: 8b8702f stash demo file
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status list
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash list
+stash@{0}: WIP on master: 8b8702f stash demo file
+stash@{1}: WIP on master: 8b8702f stash demo file
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash apply stash@{1}
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   stashdemofile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   stashdemofile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-33-6 mumbaigit]# cat stashdemofile
+Hi this is first line in stash file
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "First stash code done"
+[master 889bcb9] First stash code done
+ 1 file changed, 1 insertion(+)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash list
+stash@{0}: WIP on master: 8b8702f stash demo file
+stash@{1}: WIP on master: 8b8702f stash demo file
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash apply stas@{0}
+error: stas@{0} is not a valid reference
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git satus
+git: 'satus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# vim stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash apply stash@{0}
+Auto-merging stashdemofile
+CONFLICT (content): Merge conflict in stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+
+Unmerged paths:
+  (use "git restore --staged <file>..." to unstage)
+  (use "git add <file>..." to mark resolution)
+        both modified:   stashdemofile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "Second stash code commit"
+[master a9d42c2] Second stash code commit
+ 1 file changed, 4 insertions(+)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "Second stash code commit"
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# ls
+command_hitory_from_mumbai_machine.txt     file2.yml   mumbaigit
+command_hitory_from_singapore_machine.txt  file3.css   stashdemofile
+conflict.txt                               file4.java  test1_from_branch1.sh
+file1.txt                                  file5.sh
+[root@ip-172-31-33-6 mumbaigit]# vim stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   stashdemofile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git commit -m "Second stash code commit"
+[master 881e805] Second stash code commit
+ 1 file changed, 3 deletions(-)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# vim stashdemofile
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git log --oneline
+881e805 (HEAD -> master) Second stash code commit
+a9d42c2 Second stash code commit
+889bcb9 First stash code done
+8b8702f stash demo file
+c4e3cb4 Resloved conflict by edit
+9266df9 (branch1)  Conflict file from master Branch
+c3c25df Conflict file from master Branch
+19ce204 First commit from branch1
+1129af0 (origin/master) history from singapore machine
+85f5ded Merge branch 'master' of https://github.com/raam355/centralgit
+fdeb12b history of mumbai machine till date
+00c8d81 UPdated files from Singapore machine
+f3df69e Added some file to verify the gitignore
+2c6a983 Created gitignore file to ignofe some file formate
+5ada7bb Created gitignore file to ignofe some file formate
+73989a2 First commit from singapore
+a57611c My scond commint from mumbai
+9eb6ced My first commit from mumbai
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash list
+stash@{0}: WIP on master: 8b8702f stash demo file
+stash@{1}: WIP on master: 8b8702f stash demo file
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash clear
+[root@ip-172-31-33-6 mumbaigit]# stash@{0}
+bash: stash@{0}: command not found
+[root@ip-172-31-33-6 mumbaigit]# git stash clear stash@{0}
+error: git stash clear with arguments is unimplemented
+[root@ip-172-31-33-6 mumbaigit]# git stash list
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash clear
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git stash list
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git branch
+  branch1
+* master
+[root@ip-172-31-33-6 mumbaigit]# vim git_reset_demo.sh
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        git_reset_demo.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   git_reset_demo.sh
+
+[root@ip-172-31-33-6 mumbaigit]# git reset .
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        git_reset_demo.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git add .
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   git_reset_demo.sh
+
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git reset --hard
+HEAD is now at 881e805 Second stash code commit
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]# history
+    1  history
+    2  git --list
+    3  which git
+    4  git globale --list
+    5  git globle --list
+    6  git -h
+    7  ls
+    8  ls .
+    9  git --list
+   10  git global --list
+   11  git config --list
+   12  cd
+   13  which git
+   14  mkdir mumbaigit
+   15  ls
+   16  cd mumbaigit/
+   17  git init
+   18  ls
+   19  ls .
+   20  ls -a
+   21  ls .git/
+   22  cat >mumbai1
+   23  cat mumbai1
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "My first commit from mumbai"
+   28  git status
+   29  git log
+   30  git status
+   31  git branch
+   32  git branch -a
+   33  git show 5226cfe34
+   34  git show 5226cfe34
+   35  git remote add origin
+   36  git remote add origin
+   37  git remote add origin https://github.com/raam355/centralgit.git
+   38  git status
+   39  git push -u origin master
+   40  git status
+   41  git remote add origin https://github.com/raam355/centralgit.git
+   42  git remote add origin https://github.com/raam355/centralgit.git
+   43  git push -u origin master
+   44  git push -u origin main
+   45  git branch
+   46  git config --list
+   47  git config --global user.name "raam355"
+   48  git config --list
+   49  git push -u origin master
+   50  git status
+   51  git remote add origin https://github.com/raam355/centralgit.git
+   52  git push -u origin master
+   53  ls
+   54  ls
+   55  pwd
+   56  history
+   57  mkdir mumbaigit
+   58  cd mumbaigit/
+   59  git init
+   60  ls .git/
+   61  cat >mumbaigit
+   62  cat mumbaigit
+   63  git status
+   64  git add .
+   65  git status
+   66  git config -list
+   67  git config --list
+   68  git commit -m "My first commit from mumbai"
+   69  git status
+   70  #git remote add origin https://github.com/raam355/centralgit.git
+   71  git log
+   72  git status
+   73  git remote add origin https://github.com/raam355/centralgit.git
+   74  git s
+   75  git config --list
+   76  git push -u origin master
+   77  git push -u origin master
+   78  git push -u origin master
+   79  git push -u origin master
+   80  vim mumbaigit
+   81  git status
+   82  git add .
+   83  git status
+   84  git commit -m "My scond commint from mumbai"
+   85  git status
+   86  git log
+   87  git show a57611ce8572d8bc2ebf861e9d83d750309e70b9
+   88  git push origin master
+   89  git status
+   90  ls
+   91  git log
+   92  git pull origin master
+   93  git status
+   94  git log
+   95  git show 73989a29188572ef7da2b40179c9be38e2d06143
+   96  git status
+   97  vim .gitegnore
+   98  git status
+   99  git add .
+  100  git status
+  101  git add .gitegnore
+  102  git revert
+  103  mv .gitegnore
+  104  mv .gitegnore .gitignore
+  105  git status
+  106  git add .gitignore
+  107  git status
+  108  git commit -m "Created gitignore file to ignofe some file formate"
+  109  git status
+  110  git status
+  111  git add .
+  112  git status
+  113  git status
+  114  git commit -m "Created gitignore file to ignofe some file formate"
+  115  git status
+  116  ls -a
+  117  cat .gitignore
+  118  touch file1.txt file2.yml file3.css file4.java file5.sh
+  119  ls
+  120  git status
+  121  git add .
+  122  git status
+  123  ls
+  124  git commit -m "Added some file to verify the gitignore"
+  125  git status
+  126  git log
+  127  git log -3
+  128  git show 5ada7bbc08
+  129  git push origin master
+  130  git status
+  131  ls
+  132  history >command_hitory_from_mumbai_machine.txt
+  133  git status
+  134  vim command_hitory_from_mumbai_machine.txt
+  135  git add command_hitory_from_mumbai_machine.txt
+  136  git status
+  137  git commit -m "history of mumbai machine till date"
+  138  git status
+  139  git push origin master
+  140  git status
+  141  ls
+  142  git push origin master
+  143  git pull
+  144  git pull origin master
+  145  git status
+  146  ls
+  147  git pull origin master
+  148  git push origin master
+  149  git status
+  150  git pull origin master
+  151  git pull origin master
+  152  ls
+  153  cd mumbaigit/
+  154  ls
+  155  git status
+  156  history
+  157  git branch
+  158  git branch branch1
+  159  git branch
+  160  git checkout branch1
+  161  git status
+  162  git branch
+  163  ls
+  164  git log --oneline
+  165  vim test1_from_branch1.sh
+  166  git status
+  167  ls
+  168  git checkout master
+  169  ls
+  170  git branch
+  171  git status
+  172  git checkout branch1
+  173  git branch
+  174  git status
+  175  git add .
+  176  git status
+  177  git commit -m "First commit from branch1"
+  178  git status
+  179  git checkout master
+  180  ls
+  181  git status
+  182  git status
+  183  git log --oneline
+  184  git merge branch1
+  185  git status
+  186  git log --oneline
+  187  git branch
+  188  vim conflict.txt
+  189  git status
+  190  git add .
+  191  git commit -m "Conflict file from master Branch"
+  192  git status
+  193  git log
+  194  git log --oneline
+  195  ls
+  196  git checkout branch1
+  197  vim conflict.txt
+  198  git status
+  199  git add .
+  200  git commit -m " Conflict file from master Branch"
+  201  git commit -m " Conflict file from branch1 Branch"
+  202  git status
+  203  git log --oneline
+  204  git checkout master
+  205  git branch
+  206  git merge branch1
+  207  vim conflict.txt
+  208  git status
+  209  git add .
+  210  git status
+  211  git commit -m "Resloved conflict by edit"
+  212  git status
+  213  git --on
+  214  git log --oneline
+  215  git merge branch1
+  216  touch stashdemofile
+  217  git add .
+  218  git commit -m "stash demo file"
+  219  git status
+  220  ls
+  221  vim stashdemofile
+  222  git status
+  223  git stash
+  224  git status
+  225  vim stashdemofile
+  226  cat stashdemofile
+  227  git status list
+  228  git stash list
+  229  vim stashdemofile
+  230  git status
+  231  git stash
+  232  git status list
+  233  git stash list
+  234  git stash apply stash@{1}
+  235  git status
+  236  cat stashdemofile
+  237  git add .
+  238  git commit -m "First stash code done"
+  239  git status
+  240  git stash list
+  241  git stash apply stas@{0}
+  242  git satus
+  243  git status
+  244  vim stashdemofile
+  245  git stash apply stash@{0}
+  246  git status
+  247  git add .
+  248  git commit -m "Second stash code commit"
+  249  git status
+  250  git status
+  251  git commit -m "Second stash code commit"
+  252  ls
+  253  vim stashdemofile
+  254  git status
+  255  git add .
+  256  git commit -m "Second stash code commit"
+  257  git status
+  258  vim stashdemofile
+  259  git status
+  260  git log --oneline
+  261  git stash list
+  262  git stash clear
+  263  stash@{0}
+  264  git stash clear stash@{0}
+  265  git stash list
+  266  git stash clear
+  267  git stash list
+  268  git status
+  269  git branch
+  270  vim git_reset_demo.sh
+  271  git status
+  272  git add .
+  273  git status
+  274  git reset .
+  275  git status
+  276  git add .
+  277  git status
+  278  git reset --hard
+  279  git status
+  280  git status
+  281  history
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
+[root@ip-172-31-33-6 mumbaigit]#
