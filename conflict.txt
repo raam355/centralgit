@@ -1,1 +1,2 @@
 Hi I am ram
+Hi this conflict file is from branch1
